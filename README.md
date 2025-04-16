@@ -1,5 +1,5 @@
 
-<h1 align="center">Mahadev Srinath Goud😎</h1>
+<h1 align="center">Mahadev Srinath Goud 😎</h1>
 <p align="center">
   Full Stack Developer ⚙️ | Web Enthusiast 🌐 | React & Node.js 🚀
 </p>
